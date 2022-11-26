@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">FastStockonline</string>
+
+
+    <string name="about_us">About us</string>
+    <string name="share">Share</string>
+    <string name="communicate">Communicate</string>
+    <string name="feedback">Feedback</string>
+    <string name="Query">Query</string>
+    <string name="Suggestion">Suggestion</string>
+    <string name="whatsapp">Whatsapp</string>
+    <string name="todo">todo</string>
+    <string name="thank">Thank You</string>
+
+    <string name="quot">Faststock LIFE STEPNY is a mission to make people rich by helping to each other. It is not a company rather it’s a system which has an aim to up-bring world’s community on a single junction and raise funds with minimal fund and be likely to get benefits in short term, which is all administered by a digital software.</string>
+    <string name="mail_id"> info@faststock.com</string>
+</resources>
